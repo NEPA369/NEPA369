@@ -1,10 +1,7 @@
-- 👋 Hi, I’m NEPA
-- 👀 U
+- 👋 Hi,
 - 🌱 Always learning ...
-- 💞️ Collaboration ON
-- 📫 Reach out by MAIL
+- 📫 by MAIL
 - 😄 Pronouns: NEPA
-- ⚡ Fun fact: FUNNY
 
 <!---
 NEPA369/NEPA369 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
